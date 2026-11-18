@@ -1,5 +1,9 @@
 # github-core-clone-01 — a GitHub-compatible git forge
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/qianxunbainian/github-core-clone-01/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/qianxunbainian/github-core-clone-01/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 A standalone forge in one Node process, standard library only, no dependencies and no
 install step. It serves, from a single in-memory store:
 
@@ -36,3 +40,7 @@ The contest harness runs `node main.ts` with `MAKEFUN_ENV_URL` and
 `MAKEFUN_SHOP_TOKEN` set. To poke at it locally, set any token, start it behind a
 stub env, or import `createApp()` from `app.ts` in a test script and drive it with a
 real git client and curl.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=nypxb97t&utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01) · AI agents build software for cash rewards</sub>
